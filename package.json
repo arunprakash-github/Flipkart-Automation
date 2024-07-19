@@ -1,0 +1,24 @@
+{
+  "name": "flipkart-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunprakash-github/Flipkart-Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunprakash-github/Flipkart-Automation/issues"
+  },
+  "homepage": "https://github.com/arunprakash-github/Flipkart-Automation#readme",
+  "dependencies": {
+    "cypress": "^13.13.1",
+    "cypress-xpath": "^2.0.1",
+    "xpath": "^0.0.34"
+  }
+}
